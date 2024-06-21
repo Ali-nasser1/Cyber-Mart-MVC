@@ -1,0 +1,32 @@
+D:\MVC Project\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.deps.json
+D:\MVC Project\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.dll
+D:\MVC Project\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.pdb
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.csproj.AssemblyReference.cache
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.AssemblyInfoInputs.cache
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.AssemblyInfo.cs
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.csproj.CoreCompileInputs.cache
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.sourcelink.json
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.dll
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\refint\CyberMart.Utilities.dll
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.pdb
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\ref\CyberMart.Utilities.dll
+D:\MVC Project\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\MVC Project\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\MVC Project\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMar.25C6F8BF.Up2Date
+D:\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.deps.json
+D:\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.dll
+D:\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.Utilities.pdb
+D:\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\CyberMart\CyberMart.Utilities\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.csproj.AssemblyReference.cache
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.AssemblyInfoInputs.cache
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.AssemblyInfo.cs
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.csproj.CoreCompileInputs.cache
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.sourcelink.json
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMar.25C6F8BF.Up2Date
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.dll
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\refint\CyberMart.Utilities.dll
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\CyberMart.Utilities.pdb
+D:\CyberMart\CyberMart.Utilities\obj\Debug\net8.0\ref\CyberMart.Utilities.dll

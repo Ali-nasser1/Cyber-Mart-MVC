@@ -1,0 +1,36 @@
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.deps.json
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.pdb
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.csproj.AssemblyReference.cache
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.AssemblyInfoInputs.cache
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.AssemblyInfo.cs
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.sourcelink.json
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMar.DA9903C5.Up2Date
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\refint\CyberMart.BusinessLogic.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.pdb
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\ref\CyberMart.BusinessLogic.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.Utilities.dll
+D:\MVC Project\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.Utilities.pdb
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.deps.json
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.dll
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.BusinessLogic.pdb
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.Utilities.dll
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\CyberMart\CyberMart.BusinessLogic\bin\Debug\net8.0\CyberMart.Utilities.pdb
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.csproj.AssemblyReference.cache
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.AssemblyInfoInputs.cache
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.AssemblyInfo.cs
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.sourcelink.json
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMar.DA9903C5.Up2Date
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.dll
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\refint\CyberMart.BusinessLogic.dll
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\CyberMart.BusinessLogic.pdb
+D:\CyberMart\CyberMart.BusinessLogic\obj\Debug\net8.0\ref\CyberMart.BusinessLogic.dll

@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CyberMart.BusinessLogic.Interfaces
+{
+	public interface IUnitOfWork : IDisposable
+	{
+		ICategoryRepository Category { get; }
+		IProductRepository Product { get; }
+		IShoppingCartRepository ShoppingCart { get; }
+		IOrderDetailsRepository OrderDetails { get; }
+		IOrderHeaderRepository OrderHeader { get; }
+		IApplicationUserRepository ApplicationUser { get; }
+		int Complete();
+	}
+}

@@ -1,0 +1,65 @@
+﻿@model ProductViewModel
+@inject ICategoryRepository CategoryRepo
+@{
+	var category = new SelectList(CategoryRepo.GetAll(), "Id", "Name");
+}
+
+@{
+	ViewBag.PageTitle = "Product Management";
+	ViewBag.CardTitle = "Create a product";
+	Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<div>
+	<a asp-action="Create" class="btn btn-primar">Create a new product</a>
+</div>
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create" enctype="multipart/form-data">
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Name"></label>
+				<input class="form-control" asp-for="Name" />
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Description"></label>
+				<textarea class="form-control" asp-for="Description" ></textarea>
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Image"></label>
+				<input class="form-control" asp-for="Image" onchange="fillimg(event);"/>
+				<span asp-validation-for="Image" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Price"></label>
+				<input class="form-control" asp-for="Price" />
+				<span asp-validation-for="Price" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Category"></label>
+				<select class="form-control" asp-items="@category" asp-for="CategoryId">
+					<option value="@null">------Select the department-----</option>
+				</select>
+			</div>
+			<button type="submit" value="Submit" class="btn btn-primary mr-1">Submit</button>
+			<a asp-action="Index" class="btn btn-warning">Back to list</a>
+		</form>
+  </<div>
+</div>
+	  <div class="col-md-4">
+		  <div class="container">
+			 <img id="ImagePreview" alt="Image Preview" />
+		  </div>
+	  </div>
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+
+	<script>
+		var fillimg = function(event){
+			var imgholder = document.getElementById("ImagePreview");
+			imgholder.src = URL.createObjectURL(event.target.files[0]);
+		}
+	</script>
+}

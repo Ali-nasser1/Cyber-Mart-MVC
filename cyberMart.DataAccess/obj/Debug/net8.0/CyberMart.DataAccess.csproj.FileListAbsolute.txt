@@ -1,0 +1,30 @@
+D:\MVC Project\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.deps.json
+D:\MVC Project\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.runtimeconfig.json
+D:\MVC Project\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\MVC Project\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.csproj.AssemblyReference.cache
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.AssemblyInfoInputs.cache
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.AssemblyInfo.cs
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.csproj.CoreCompileInputs.cache
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.sourcelink.json
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.dll
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\refint\CyberMart.DataAccess.dll
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.genruntimeconfig.cache
+D:\MVC Project\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\ref\CyberMart.DataAccess.dll
+D:\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.deps.json
+D:\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.runtimeconfig.json
+D:\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.dll
+D:\CyberMart\cyberMart.DataAccess\bin\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.csproj.AssemblyReference.cache
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.AssemblyInfoInputs.cache
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.AssemblyInfo.cs
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.csproj.CoreCompileInputs.cache
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.sourcelink.json
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.dll
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\refint\CyberMart.DataAccess.dll
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.pdb
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\CyberMart.DataAccess.genruntimeconfig.cache
+D:\CyberMart\cyberMart.DataAccess\obj\Debug\net8.0\ref\CyberMart.DataAccess.dll

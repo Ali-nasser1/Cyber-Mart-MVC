@@ -1,0 +1,44 @@
+﻿@model ProductViewModel
+
+@{
+	ViewBag.PageTitle = "Product Management";
+	ViewBag.CardTitle = "Edit a product";
+	Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Delete" enctype="multipart/form-data">
+			<input readonly type="hidden" asp-for="Id" />
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Name"></label>
+				<input readonly class="form-control" asp-for="Name" />
+			</div>
+
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Description"></label>
+				<input readonly class="form-control" asp-for="Description" />
+			</div>
+
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Price"></label>
+				<input readonly class="form-control" asp-for="Price" />
+			</div>
+
+			<div class="form-group">
+				<label class="col-form-label" asp-for="Category.Name"> Category Name</label>
+				<input readonly class="form-control" asp-for="Category.Name" />
+			</div>
+
+			<button type="submit" value="Submit" class="btn btn-success mr-1">Delete</button>
+			<a asp-action="Index" class="btn btn-warning">Back to list</a>
+		</form>
+	</div>
+	<div class="col-md-4">
+		<div class="container">
+			<img id="ImagePreview" src="~/Images/Products/@Model.ImageName" alt="Image Preview" />
+		</div>
+	</div>
+</div>
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
