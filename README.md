@@ -60,3 +60,7 @@ Cybermart is a sophisticated online platform designed to provide a seamless shop
 - Microsoft.VisualStudio.Web.CodeGeneration.Design: 8.0.2
 - Stripe.net: 44.13.0
 - X.PagedList.Mvc.Core: 9.1.2
+
+## Screenshots
+
+![dbDiagram](https://github.com/Ali-nasser1/Cyber-Mart-MVC/blob/main/Assessts/dbDiagram.png)
