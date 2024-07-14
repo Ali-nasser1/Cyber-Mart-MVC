@@ -63,4 +63,4 @@ Cybermart is a sophisticated online platform designed to provide a seamless shop
 
 ## Screenshots
 
-![dbDiagram](https://github.com/Ali-nasser1/Cyber-Mart-MVC/blob/main/Assessts/dbDiagram.png)
+![dbDiagram](https://github.com/Ali-nasser1/Cyber-Mart-MVC/blob/main/Assets/dbDiagram.png)
